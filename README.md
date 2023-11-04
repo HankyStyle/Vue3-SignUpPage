@@ -1,4 +1,6 @@
-# frontend
+# FrontEnd Page with Signup Form
+
+A simple practice for Vue
 
 ## Project setup
 ```
@@ -22,4 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-"# Vue3-SignUpPage" 
